@@ -10,7 +10,9 @@ This chatbot was written by Cadaeic, starting out as an edit to mercm8's fork of
 ## Instructions
 WIP instructions:
 1. Download [oobabooga's text-generation-webui](https://github.com/oobabooga/text-generation-webui) and at least one model, and run the webui with the --api flag, making sure to set up the model
-2. Run this bot with ``python discordbot.py`` in another terminal
+2. Grab a discord bot token from the Discord Developer Portal with the following permissions: bot, send messages, send messages in threads, read messages/view channels, read message history, use slash commands
+3. Put the discord bot token into ``config.yaml``
+4. Run this bot with ``python discordbot.py`` in another terminal
 
 ## To Do
 - Gracefully detect lack of api or model
