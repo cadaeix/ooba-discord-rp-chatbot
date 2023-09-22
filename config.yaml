@@ -1,0 +1,18 @@
+DISCORD_TOKEN: "YOUR DISCORD TOKEN GOES HERE"
+
+default_character: "Assistant"
+
+character_directories: [
+    {
+      filepath: "characters",
+      visible: True, #set to false for characters to not show up in the dropdown
+    },
+  ]
+
+prompt_preset_path: "configs/edited_sillytavern_rp.json"
+generation_parameters_preset_path: # can specify oobabooga preset here, like "oobabooga_windows\\text-generation-webui\\presets\\Midnight Enigma.yaml"
+context_length: 2048 #2048 for most models, 4096 for llama2
+add_hashes_to_conversation: False #may or may not help with only generating the specific character's lines
+max_rounds_in_continuation: 3 #numebr of "turns" the /cont generation can go on for
+reply_to_other_bots: False
+max_characters_in_group_chat: 6 # if None, then there's no limit

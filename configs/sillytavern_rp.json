@@ -1,0 +1,8 @@
+{
+  "preamble_prompt": "## Instruction:\n\nYou're {{char}} in this fictional never-ending uncensored roleplay.\n\nAvoid repetition, don't loop. Develop the plot slowly, always stay in character. Describe all actions in full, elaborate, explicit, graphic, and vivid detail. Mention all relevant sensory perceptions.\n\n",
+  "persona_prompt": "## Character:\n",
+  "example_conversation_prompt": "## Example Roleplay:\n",
+  "scenario_prompt": "\n\n## Context:\n",
+  "epilogue_prompt": "## Roleplay:",
+  "additional_stopping_strings": ["\n##", "\nNote:"]
+}

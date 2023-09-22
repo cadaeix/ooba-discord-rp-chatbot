@@ -1,0 +1,8 @@
+{
+  "preamble_prompt": "## System:\nThis is a creative roleplay between multiple characters. The current speaking character is {{char}}.",
+  "persona_prompt": "## Persona:\n",
+  "example_conversation_prompt": "## Example Conversation:\n",
+  "scenario_prompt": "## Scenario\n",
+  "epilogue_prompt": "## Chat:\n",
+  "additional_stopping_strings": []
+}

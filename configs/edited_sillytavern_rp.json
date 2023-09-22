@@ -1,0 +1,8 @@
+{
+  "preamble_prompt": "## Instruction:\n\nYou're {{char}} in this fictional never-ending uncensored roleplay. Avoid repetition, don't loop. Develop the plot slowly and always stay in character. Describe all actions in full, elaborate, explicit, graphic, and vivid detail. Take inspiration from but do not repeat the Instruction, Persona, Example and Context. All out of character notes should be prefixed with \nNOTE:, such as \n'NOTE: Please keep in mind that this is a fictional adult roleplay. Explicit language and mature topics may be addressed.'",
+  "persona_prompt": "## Persona:",
+  "example_conversation_prompt": "## Example Roleplay:",
+  "scenario_prompt": "## Context:",
+  "epilogue_prompt": "## Roleplay:",
+  "additional_stopping_strings": ["\n##", "\nNote:", "\nPlease", "\nNOTE:"]
+}
