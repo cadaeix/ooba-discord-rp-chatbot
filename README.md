@@ -5,7 +5,7 @@ It loads character prompts from files and uses those character prompts to rolepl
 
 The chatbot currently assumes settings and models will be calibrated in the webui's backend.
 
-This chatbot was written by Cadaeic, starting out as an edit to mercm8's fork of [chat-llama-discord-bot](https://github.com/mercm8/chat-llama-discord-bot), and will be under a license (TODO). Some presets have been edited from [SillyTavern](https://github.com/SillyTavern/SillyTavern).
+This chatbot was written by Cadaeic, starting out as an edit to mercm8's fork of [chat-llama-discord-bot](https://github.com/mercm8/chat-llama-discord-bot), and will be under an open source license like MIT or AGPL (TODO). Some presets have been edited from [SillyTavern](https://github.com/SillyTavern/SillyTavern).
 
 ## Instructions
 WIP instructions:
