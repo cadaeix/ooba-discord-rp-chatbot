@@ -18,3 +18,4 @@ WIP instructions:
 - Gracefully detect lack of api or model
 - easy bat file for installation and running
 - possibly accept other backends?
+- other example characters that aren't meme napoleon
