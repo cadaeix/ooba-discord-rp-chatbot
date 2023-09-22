@@ -19,3 +19,6 @@ WIP instructions:
 - easy bat file for installation and running
 - possibly accept other backends?
 - other example characters that aren't meme napoleon
+- allow settings per character
+- allow loading loras per character?
+- continue button for generating text without a character
